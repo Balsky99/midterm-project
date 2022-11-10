@@ -29,3 +29,7 @@ Note: If the docker daemon is not running, run the following code.
 `sudo dockerd`
 
 # Testing the Web Service
+
+Make sure the web service is on, then simply run the following code.
+
+`python predict-test.py`
